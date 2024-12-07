@@ -1,2 +1,2 @@
-! Ajout des premières règles
+# Ajout des premières règles
 ||blockadblock.com^
