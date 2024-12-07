@@ -1,6 +1,2 @@
-! Exemple de liste AdGuard
-||example.com^
-||ads.example.org^
-||tracker.example.net^
-
 ! Ajout des premières règles
+||this-does-not-exist-12345.com^
