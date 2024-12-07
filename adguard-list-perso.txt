@@ -1,2 +1,2 @@
 ! Ajout des premières règles
-||this-does-not-exist-12345.com^
+||doubleclick.net^
